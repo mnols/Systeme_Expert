@@ -37,6 +37,11 @@ Dans le cas où on veux créer un compte ou ajouter un user :
 
 ![image](https://github.com/mnols/Systeme_Expert/assets/119527090/4790214a-3afe-4b76-87df-8b20377f4aa8) 
 
+Structure de base de connaissance : 
+![image](https://github.com/mnols/Systeme_Expert/assets/119527090/3fb75929-81fe-40d4-a864-c49b6c557e27)
+
+Pour le tableau 'users', on trouve les utilisateurs suivants: 
+![image](https://github.com/mnols/Systeme_Expert/assets/119527090/5504be89-2c17-4da6-995d-894f7d9221f9)
 
 
 
